@@ -2,7 +2,7 @@
     File name: vespp.py
     Author: Dominic Anselmo
     Date created: 1/28/2022
-    Description: A very simply Python proxy. Run it with Python, and answer the questions it asks at runtime.
+    Description: A very simple Python proxy. Run it with Python, and answer the questions it asks at runtime.
 '''
 from socket import socket
 
